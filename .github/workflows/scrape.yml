@@ -1,0 +1,79 @@
+name: Scrape Johnson County events
+
+on:
+  schedule:
+    # 7am CT = 12:00 UTC (CST) / 13:00 UTC (CDT). Schedule both Wed + Sat at
+    # 12:00 UTC; during CDT this fires at 7am CT, during CST at 6am CT. To
+    # cover both DST states tightly we run at 12:00 and 13:00 UTC and
+    # de-dupe inside the job using the actual local hour.
+    - cron: "0 12 * * 3,6"
+    - cron: "0 13 * * 3,6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Skip duplicate DST run
+        id: gate
+        run: |
+          HOUR_CT=$(TZ=America/Chicago date +%H)
+          echo "Local CT hour: $HOUR_CT"
+          if [ "$HOUR_CT" != "07" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "Not 7am CT, skipping."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Checkout
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          EVENTBRITE_API_KEY: ${{ secrets.EVENTBRITE_API_KEY }}
+        run: python scraper.py
+
+      - name: Commit events.json
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          if git diff --quiet events.json 2>/dev/null; then
+            echo "No changes to events.json"
+          else
+            git add events.json
+            git commit -m "chore: refresh events.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
+
+      - name: POST to webhook
+        if: steps.gate.outputs.skip != 'true' && env.WEBHOOK_URL != ''
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: |
+          curl -sS -X POST "$WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            --data-binary @events.json \
+            --max-time 30 \
+            --fail-with-body
