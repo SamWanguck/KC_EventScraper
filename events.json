@@ -7,11 +7,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Amy Kligman: The Salon for Possible Futures is a built environment installation that takes on the familiar shape of a living room. It acts at once as a library, a gallery, a cabinet of curiosity, a third space, a common room, and a think tank. After an engaging year of thoughtful and interactive co…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/amy-kligman-the-salon-for-possible-futures/",
-=======
-    "url": "https://www.visitoverlandpark.com/amy-kligman-the-salon-for-possible-futures/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/8e5d2695-5277-43c6-ad66-9416ee456b97.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -24,11 +20,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "The stories adapted from European folktales often feature a desire for riches, status, and romance. In comparison, Indigenous stories highlight relations to other beings. In accordance with the Indigenous imperative to see the land, animals, and other living beings represented, Julie Buffalohead’s…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/julie-buffalohead-stories-of-becoming1/",
-=======
-    "url": "https://www.visitoverlandpark.com/julie-buffalohead-stories-of-becoming1/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/223fbc99-8573-421e-979f-3d4fdd17faf7.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -73,191 +65,6 @@
     "source": "Visit Overland Park"
   },
   {
-<<<<<<< HEAD
-=======
-    "title": "Craft Putt CLUE",
-    "date": "2026-05-29T18:00:00+00:00",
-    "end_date": "2026-05-29T22:00:00+00:00",
-    "time": "1:00 PM – 5:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "A murder has been committed at Craft Putt… and everyone is a suspect 👀 We’re turning the course into a full Clue-style mystery where you’ll gather evidence as you play and work to solve the case. As you move through the course, you’ll uncover clues to determine: • Who did it • Where it happened • W…",
-    "url": "https://www.visitoverlandpark.com/craft-putt-clue/",
-    "image_url": "https://files.idss.com/C514/d9e3771a-12ae-4e60-bce9-fc588a821eb4.jpg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "SHREK",
-    "date": "2026-05-30T01:00:00+00:00",
-    "end_date": "2026-05-30T03:30:00+00:00",
-    "time": "8:00 PM – 10:30 PM",
-    "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
-    "city": "Shawnee",
-    "description": "https://www.jcprd.com/calendar.aspx?EID=15625",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "⛔ Facility Closed",
-    "date": "2026-05-30T05:00:00+00:00",
-    "end_date": "2026-05-30T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
-    "city": "Lenexa",
-    "description": "https://www.jcprd.com/calendar.aspx?EID=15816",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "Fae Ball Events: Myths & Legends Kansas City",
-    "date": "2026-05-30T10:00:00+00:00",
-    "end_date": "2026-05-30T23:30:00+00:00",
-    "time": "5:00 AM – 6:30 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Literary market by day. Mythical ball by night. Fae Ball Events presents Myths & Legends in Kansas City. Fae Ball Events invites guests into a world of Myths & Legends in Kansas City, beginning with a daytime literary market filled with books, art, and handcrafted goods. As evening falls, the event…",
-    "url": "https://www.visitoverlandpark.com/fae-ball-events-myths-legends-kansas-city/",
-    "image_url": "https://files.idss.com/C514/7fa76a74-e536-4805-8ee3-2b8ce433e8f6.jpg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "Raku Day at House of Clay",
-    "date": "2026-05-30T10:00:00+00:00",
-    "end_date": "2026-05-30T21:00:00+00:00",
-    "time": "5:00 AM – 4:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Experience the excitement of Raku firing at House of Clay in Overland Park. Raku is a dramatic pottery firing process where glowing-hot ceramic pieces are removed from the kiln and transformed through flame, smoke, and rapid cooling to create one-of-a-kind finishes. This special event is perfect fo…",
-    "url": "https://www.visitoverlandpark.com/raku-day-at-house-of-clay/",
-    "image_url": "https://files.idss.com/C514/2af604b4-8b95-4901-90d3-6db1f8518be9.jpg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "⛔ Practice: Cancelled",
-    "date": "2026-05-30T12:30:00+00:00",
-    "end_date": "2026-05-30T14:00:00+00:00",
-    "time": "7:30 AM – 9:00 AM",
-    "venue": "-   Lenexa KS 66219",
-    "city": "Lenexa",
-    "description": "https://www.jcprd.com/calendar.aspx?EID=17827",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "Record Sale at Discourse Brewing",
-    "date": "2026-05-30T16:00:00+00:00",
-    "end_date": "2026-05-30T20:00:00+00:00",
-    "time": "11:00 AM – 3:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Robert Pankey from Monday’s Grooves and Brews is coming out this Saturday! Dig through the crates and discover your next favorite album at our Record Sale at Discourse Brewing on Saturday, May 30th from 4–8pm. Browse a wide selection of vinyl while enjoying fresh beer and good company. Whether you'…",
-    "url": "https://www.visitoverlandpark.com/record-sale-at-discourse-brewing/",
-    "image_url": "https://files.idss.com/C514/0da576d9-63c2-4f19-b00e-69dc64530600.jpg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "Pottery & Pinot at House of Clay (21+)",
-    "date": "2026-05-30T18:00:00+00:00",
-    "end_date": "2026-05-30T20:00:00+00:00",
-    "time": "1:00 PM – 3:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "A fun, social, beginner-friendly pottery class perfect for date nights, girls’ nights, and anyone looking to try something creative. Guests are guided step-by-step through a hand-built pottery project in a relaxed, welcoming environment. No experience needed. 21+.",
-    "url": "https://www.visitoverlandpark.com/pottery-pinot-at-house-of-clay-21/",
-    "image_url": "https://files.idss.com/C514/afa6c917-d4a7-48c8-aab8-119b050d9f78.png",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "Live Music - True North Kansas at Discourse Brewing",
-    "date": "2026-05-30T19:00:00+00:00",
-    "end_date": "2026-05-30T21:00:00+00:00",
-    "time": "2:00 PM – 4:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Live Music Night at Discourse Brewing out in the east parking lot! Join us for a fun evening of great food, beer and live music! Andiamo Gelato and Italian Market Food Truck will be serving up delicious eats starting at 5:00 PM Mark Freeman will be doing live paintingTrue North Kansas is playing li…",
-    "url": "https://www.visitoverlandpark.com/live-music-true-north-kansas-at-discourse-brewing/",
-    "image_url": "https://files.idss.com/C514/2583dced-d004-4129-80dc-c7c36e5c0bec.jpeg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "SHREK - ASL",
-    "date": "2026-05-31T01:00:00+00:00",
-    "end_date": "2026-05-31T03:30:00+00:00",
-    "time": "8:00 PM – 10:30 PM",
-    "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
-    "city": "Shawnee",
-    "description": "https://www.jcprd.com/calendar.aspx?EID=15626",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "⛔ Facility Closed",
-    "date": "2026-05-31T05:00:00+00:00",
-    "end_date": "2026-05-31T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
-    "city": "Lenexa",
-    "description": "https://www.jcprd.com/calendar.aspx?EID=15817",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "Bingo & Benefit at Craft Putt",
-    "date": "2026-05-31T12:00:00+00:00",
-    "end_date": "2026-05-31T14:00:00+00:00",
-    "time": "7:00 AM – 9:00 AM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Introducing Bingo Sundays at Craft Putt!Craft Putt is giving back to the local community by raising funds to support local non-profit organization. Join us from Noon to 2 PM to play a few rounds of Bingo and help us give back!Single Bingo cards cost $2 (or get a pack of 8 for $15). All proceeds gen…",
-    "url": "https://www.visitoverlandpark.com/bingo-benefit-at-craft-putt/",
-    "image_url": "https://files.idss.com/C514/b56c29e6-b919-4cea-bdf2-d265f5d90b96.png",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "Live Music in the Tasting Room",
-    "date": "2026-05-31T14:00:00+00:00",
-    "end_date": "2026-05-31T16:00:00+00:00",
-    "time": "9:00 AM – 11:00 AM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "Add a little live music to your weekend plans at Aubrey Vineyards!Over 15 well-crafted wines are available for tastings while you enjoy live music from local KC artists on Sundays from 2-4pm.Check the schedule to see who is playing.",
-    "url": "https://www.visitoverlandpark.com/live-music-in-the-tasting-room/",
-    "image_url": "https://files.idss.com/C514/114a6979-a66c-43c0-957f-fff4653d7e14.jpeg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
-    "title": "Tea Time at the European Market & Cafe",
-    "date": "2026-05-31T15:00:00+00:00",
-    "end_date": "2026-05-31T17:00:00+00:00",
-    "time": "10:00 AM – 12:00 PM",
-    "venue": "",
-    "city": "Overland Park",
-    "description": "“Tea Time at the European Market&Cafe” ✨ Where Elegance Meets Affection ✨ (Picture is showing service for TWO guests) Join us for a heartwarming and unforgettable European Market & Cafe Sunday’s experience that's more enchanting than ever before, with a uniquely curated Afternoon Tea Party designed…",
-    "url": "https://www.visitoverlandpark.com/tea-time-at-the-european-market-cafe/",
-    "image_url": "https://files.idss.com/C514/6ed1d8ee-f4a9-4fb0-8c3b-20e464e4c5a1.jpg",
-    "is_free": false,
-    "source": "Visit Overland Park"
-  },
-  {
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "TIP Tech Academy - Intro to Costume Design",
     "date": "2026-06-01T05:00:00+00:00",
     "end_date": "2026-06-05T05:00:00+00:00",
@@ -271,98 +78,6 @@
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "June 1 KC Women Leaders Missional Network Luncheon & Ministry Fair",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Westbrooke Church",
-    "city": "Overland Park",
-    "description": "A diverse & missional network of women church leaders & ministry leaders whose focus is uniting, encouraging, & equipping women leaders.",
-    "url": "https://www.eventbrite.com/e/june-1-kc-women-leaders-missional-network-luncheon-ministry-fair-registration-1989098418916",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F772725169%2F937728076263%2F1%2Foriginal.20240521-113808?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C2034%2C1017&s=230ca9e639116e4d070b13b18cdfdd0f",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Kansas City Speed Dating for Singles Age 20s/30s ♥ Overland Park Kansas",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "AdventHealth Sports Park at BluHawk",
-    "city": "Overland Park",
-    "description": "Meet up to 12 potential matches. Join the thousands of people that have found LOVE at our events. Will you be our next success story?",
-    "url": "https://www.eventbrite.com/e/kansas-city-speed-dating-for-singles-age-20s30s-overland-park-kansas-tickets-1988138428559",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182929784%2F1790696752063%2F1%2Foriginal.20260424-012929?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8c6dda5ac333c4a1a91ec20f5c81c241",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Hard Candy Kansas City with Akeria Davenport",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Hamburger Mary's Kansas City",
-    "city": "Kansas City",
-    "description": "All Stars S11's Akeria Davenport comes to KC!",
-    "url": "https://www.eventbrite.com/e/hard-candy-kansas-city-with-akeria-davenport-tickets-1989061167496",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184077756%2F61275497857%2F1%2Foriginal.20260508-003641?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.991&fp-y=0.344&s=b27b4de55fa4b1c9a2d299341c321f78",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "KMO Lemon Classic Golf Tournament",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Blue Hills Country Club",
-    "city": "Kansas City",
-    "description": "Get ready to tee off and show your skills at the coolest golf tourney around!",
-    "url": "https://www.eventbrite.com/e/kmo-lemon-classic-golf-tournament-registration-1987625706995",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182341611%2F730620893693%2F1%2Foriginal.20260416-172317?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d4848acea43bebdd22d277f08fe15b84",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Middle School Design Workshop",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-02T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "4200 Pennsylvania Ave",
-    "city": "Kansas City",
-    "description": "Design the Future of Kansas City!",
-    "url": "https://www.eventbrite.com/e/middle-school-design-workshop-tickets-1982828266722",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177211468%2F2888241684731%2F1%2Foriginal.20260210-203647?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.448&fp-y=0.864&s=3573b1b2edf501ade7c99609ffa96a9e",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Vino and Violins!",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Cru Bistro & Bottles",
-    "city": "Kansas City",
-    "description": "A Beautiful Night of Food, Wine and Music to benefit the Kansas City Chamber Orchestra! Including Dinner, Concert, Wine Tasting and more.",
-    "url": "https://www.eventbrite.com/e/vino-and-violins-tickets-1988778115881",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183822562%2F92203774845%2F1%2Foriginal.20260505-152640?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=02b772dcffe9cae7b4598961a3ecabbf",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Larks After Dark Bingo Night",
-    "date": "2026-06-01T05:00:00+00:00",
-    "end_date": "2026-06-01T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "1527 W 9th St",
-    "city": "Kansas City",
-    "description": "Join us at Larks After Dark for a fun-filled bingo night with great vibes and cool prizes!",
-    "url": "https://www.eventbrite.com/e/larks-after-dark-bingo-night-tickets-1990147210881",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185191126%2F3002894937544%2F1%2Foriginal.20260522-031901?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.165&fp-y=0.458&s=f02bf079d38e2a3657a3cee5c7b3cfde",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
     "title": "Long Course Practice: 5:30 am - 7:00 am ",
     "date": "2026-06-01T10:30:00+00:00",
     "end_date": "2026-06-01T12:00:00+00:00",
@@ -373,18 +88,6 @@
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17779",
     "image_url": null,
     "is_free": true,
-=======
-    "title": "Long Course Practice: 5:30 am - 7:00 am ",
-    "date": "2026-06-01T10:30:00+00:00",
-    "end_date": "2026-06-01T12:00:00+00:00",
-    "time": "5:30 AM – 7:00 AM",
-    "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
-    "city": "Lenexa",
-    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17779",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "image_url": null,
-    "is_free": true,
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "source": "JCPRD"
   },
   {
@@ -492,22 +195,6 @@
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "Tom Lin, Babylon, South Dakota with Rainy Day Books",
-    "date": "2026-06-02T05:00:00+00:00",
-    "end_date": "2026-06-02T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Rainy Day Books",
-    "city": "Fairway",
-    "description": "Enjoy an evening with award-winning author Tom Lin in Kansas City!",
-    "url": "https://www.eventbrite.com/e/tom-lin-babylon-south-dakota-with-rainy-day-books-tickets-1987576624187",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184728656%2F2586572066461%2F1%2Foriginal.20260515-235621?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6ba516509972e7de13ec2ee045ff9abb",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "Discovery Day at the Arboretum",
     "date": "2026-06-02T09:00:00+00:00",
     "end_date": "2026-06-02T12:00:00+00:00",
@@ -632,94 +319,10 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17799",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17799",
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
-  },
-  {
-    "title": "Cougar Club presents: Loud & Legendary",
-    "date": "2026-06-03T05:00:00+00:00",
-    "end_date": "2026-06-03T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "The Ship",
-    "city": "Kansas City",
-    "description": "Age Inclusive Dance Party for She’s Gay’s & They’s",
-    "url": "https://www.eventbrite.com/e/cougar-club-presents-loud-legendary-tickets-1989302846364",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184389571%2F277024703070%2F1%2Foriginal.20260512-123344?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a03b9f24150f4b7a0183dae0e918cf10",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "image_url": null,
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-<<<<<<< HEAD
-    "title": "Jack Barksdale at Waldo Folk",
-    "date": "2026-06-03T05:00:00+00:00",
-    "end_date": "2026-06-03T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "The Tap Room at Waldo Pizza",
-    "city": "Kansas City",
-    "description": "Jack tours nationally wowing audiences with lyrics wise beyond his years. He plays several instruments but identifies as a songwriter first.",
-    "url": "https://www.eventbrite.com/e/jack-barksdale-at-waldo-folk-tickets-1987563864021",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182267692%2F1944591909723%2F1%2Foriginal.20260415-201303?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.537&fp-y=0.154&s=da21094633385b227d3c057b453a1981",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "2026 Art in the Loop Kick-Off Event",
-    "date": "2026-06-03T05:00:00+00:00",
-    "end_date": "2026-06-03T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Kansas City Public Library Central Library",
-    "city": "Kansas City",
-    "description": "Join us in celebrating the 2026 Art in the Loop Visual & Performing Artists with an evening of art and music!",
-    "url": "https://www.eventbrite.com/e/2026-art-in-the-loop-kick-off-event-tickets-1986832828474",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183589952%2F5747989231%2F1%2Foriginal.20260502-142023?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=39a01ed8027dd75f4bd81f231dee0ccf",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "BRAND DAY: For KC Wedding Pros",
-    "date": "2026-06-03T05:00:00+00:00",
-    "end_date": "2026-06-03T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Warren Place Venue",
-    "city": "Gardner",
-    "description": "Join us for BRAND DAY: For Wedding Pros",
-    "url": "https://www.eventbrite.com/e/brand-day-for-kc-wedding-pros-tickets-1988410677864",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183445954%2F800289242113%2F1%2Foriginal.20260430-163124?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.173&s=9d9b684c386305779213e3d757f71e78",
-    "is_free": true,
-    "source": "Eventbrite"
-=======
-    "title": "Long Course Practice: 5:30 am - 7:00 am ",
-    "date": "2026-06-03T10:30:00+00:00",
-    "end_date": "2026-06-03T12:00:00+00:00",
-    "time": "5:30 AM – 7:00 AM",
-    "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
-    "city": "Lenexa",
-    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17780",
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "image_url": null,
-    "is_free": true,
-    "source": "JCPRD"
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
-  },
-  {
-    "title": "GKC-PRSA x KCIABC Happy Hour with Mike Swenson",
-    "date": "2026-06-03T05:00:00+00:00",
-    "end_date": "2026-06-03T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Rockcreek Brewing Company",
-    "city": "Mission",
-    "description": "Join GKC-PRSA and KCIABC for a special co-hosted happy hour featuring networking and a conversation on crisis communications with Mike Swens",
-    "url": "https://www.eventbrite.com/e/gkc-prsa-x-kciabc-happy-hour-with-mike-swenson-tickets-1990178462355",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185220242%2F213167387116%2F1%2Foriginal.20260522-144018?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.248&s=f7002b19a953ab76fc1db13d5885de3d",
-    "is_free": true,
-    "source": "Eventbrite"
   },
   {
     "title": "Long Course Practice: 5:30 am - 7:00 am ",
@@ -924,54 +527,10 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17800",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17800",
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
-  },
-  {
-    "title": "Pipeline Innovators Gala",
-    "date": "2026-06-05T05:00:00+00:00",
-    "end_date": "2026-06-05T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Union Station Kansas City",
-    "city": "Kansas City",
-    "description": "Pipeline Innovators Gala",
-    "url": "https://www.eventbrite.com/e/pipeline-innovators-gala-tickets-1985621999853",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180497651%2F17925551615%2F1%2Foriginal.20260323-190301?w=401&auto=format%2Ccompress&q=75&sharp=10&s=43e7e207d67eaeda71e0246556d3ff4e",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
-    "image_url": null,
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
-    "is_free": true,
-    "source": "JCPRD"
-  },
-  {
-    "title": "FreakniKC ‘26",
-    "date": "2026-06-05T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "The Royal Mansion Event Space",
-    "city": "Raytown",
-    "description": "The littest party of the summer is back!! Time to get your outfits ready!! Freaknik 26!! You don’t wanna miss this one!! Summer kick off!!",
-    "url": "https://www.eventbrite.com/e/freaknikc-26-tickets-1987084424003",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181814235%2F493016665773%2F1%2Foriginal.20260409-192735?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.54&fp-y=0.196&s=433d45956f706157f42882262e673c97",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Twilight Imperium Intergalactical Tournament: Kansas City",
-    "date": "2026-06-05T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Pawn and Pint Games",
-    "city": "Kansas City",
-    "description": "Get ready to dominate the galaxy and outsmart your rivals in this epic Twilight Imperium showdown!",
-    "url": "https://www.eventbrite.com/e/twilight-imperium-intergalactical-tournament-kansas-city-tickets-1987462566036",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1064534533%2F1338176429163%2F1%2Foriginal.20250701-193835?crop=focalpoint&fit=crop&h=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d52b22c34dd639a169cb7d6500fcf3eb",
-    "is_free": true,
-    "source": "Eventbrite"
   },
   {
     "title": "Kansas City Auto Show",
@@ -1117,113 +676,6 @@
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "Strang Hall Beer Fest 2026",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "7313 W 80th St",
-    "city": "Overland Park",
-    "description": "Join us for our 6th annual Beer Fest at Strang Hall in Downtown Overland Park. Enjoy the afternoon with 40+ Beer Tastings",
-    "url": "https://www.eventbrite.com/e/strang-hall-beer-fest-2026-tickets-1986343971289",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181113296%2F2131224556823%2F1%2Foriginal.20260331-165054?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cbef1f89e03246447327bc2b2e743efc",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Pilates Sculpt By Kansas City Pilates Club",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Pink Antlers",
-    "city": "Leawood",
-    "description": "Join Kansas City Pilates Club for a fun, sculpting Pilates session that’s all about strength and balance!",
-    "url": "https://www.eventbrite.com/e/pilates-sculpt-by-kansas-city-pilates-club-tickets-1988214511124",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183462553%2F2998194917101%2F1%2Foriginal.20260430-193505?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.41&s=9edc79f96a5a6d09ca5262caf7b83452",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Africa Meets Kansas City - A Fusion of Culture and Community",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Unity Temple on the Plaza",
-    "city": "Kansas City",
-    "description": "Celebrate African culture at AfroKC with food, music, art, fashion & community! Don’t miss this vibrant cultural experience! #AfroKC",
-    "url": "https://www.eventbrite.com/e/africa-meets-kansas-city-a-fusion-of-culture-and-community-tickets-1405387585099",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1048625533%2F2543579913361%2F1%2Foriginal.20250609-010007?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=a75f64831887061fe180156b6b8bb325",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "The World in Kansas City: Exploring Memory with Kathy Liao",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Kemper Museum of Contemporary Art",
-    "city": "Kansas City",
-    "description": "The World in Kansas City artist, Kathy Liao leads a collage-based workshop focused on connecting with personal memory.",
-    "url": "https://www.eventbrite.com/e/the-world-in-kansas-city-exploring-memory-with-kathy-liao-tickets-1988498134449",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183355946%2F210151758454%2F1%2Foriginal.20260429-174150?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b6fb96540062acf74ec3df0e5be48fa6",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Kansas City Jazz In The Garden- Juneteenth Celebration",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Global One Urban Farming",
-    "city": "Kansas City",
-    "description": "Celebrate Juneteenth with live jazz, wellness, and community in the garden—music, food, and purpose at Global One Urban Farming!",
-    "url": "https://www.eventbrite.com/e/kansas-city-jazz-in-the-garden-juneteenth-celebration-tickets-1985621719013",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180362165%2F301733197229%2F1%2Foriginal.20260321-030940?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.639&fp-y=0.218&s=dfe8122edf4612d94d152d1a83eeb8ca",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "CLUB FAHRENHEIT \"The 2006 Class Reunion\"",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Larks Entertainment at West Bottoms",
-    "city": "Kansas City",
-    "description": "Class of 2006 is our time Get Ready to Kick It",
-    "url": "https://www.eventbrite.com/e/club-fahrenheit-the-2006-class-reunion-tickets-1990335410792",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185369974%2F74710672331%2F1%2Foriginal.20260525-160226?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.044&s=3fda241d2526219ff35d3eb310aaf15a",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Petals & Perlage",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "6200 Martway St",
-    "city": "Mission",
-    "description": "Flower Arranging & Bubbly Sparkling Wine Tasting Class. Join us Sat. June 6th for our annual collaboration of flower arranging & wine.",
-    "url": "https://www.eventbrite.com/e/petals-perlage-tickets-1989268452491",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184349930%2F393798981857%2F1%2Foriginal.20260511-234023?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496&fp-y=0.521&s=1d2fdd94542150a6e36fb95bcc08be79",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "HAS x Brent Thompson presents White Wing Dove: A Pride Spectacular",
-    "date": "2026-06-06T05:00:00+00:00",
-    "end_date": "2026-06-06T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Hotel Phillips Kansas City, Curio Collection by Hilton",
-    "city": "Kansas City",
-    "description": "Join us to celebrate Pride 2026 at Hotel Phillips with Art, Fashion, and Live Performances.",
-    "url": "https://www.eventbrite.com/e/has-x-brent-thompson-presents-white-wing-dove-a-pride-spectacular-tickets-1988791718567",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183755781%2F167382040577%2F1%2Foriginal.20260504-221926?crop=focalpoint&fit=crop&h=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=655124504a8bf62891ac5234f8619661",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "Cottonwood Tales at the Overland Park Arboretum & Botanical Gardens",
     "date": "2026-06-06T10:00:00+00:00",
     "end_date": "2026-06-06T10:45:00+00:00",
@@ -1257,11 +709,7 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17818",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17818",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1300,7 +748,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Join us for our 6th annual Beer Fest at Strang Hall in Downtown Overland Park. Enjoy the afternoon with 40+ Beer TastingsYour ticket includes three hours of unlimited tastings from the breweries, live music and 15% off Strang food! On DD duty? We've got you covered with our designated driver ticket…",
-    "url": "https://www.visitoverlandpark.com/strang-hall-beer-fest-2026/",
+    "url": "https://www.visitoverlandpark.com/events/strang-hall-beer-fest-2026/",
     "image_url": "https://files.idss.com/C514/1eb4f403-a6a3-4ff1-81f3-1085c880ee1c.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1326,11 +774,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Kick off summer at Bluhawk with the ultimate Beach Boys Tribute Band! Surfin' Safari brings California vibes and classic surf rock hits that'll have you dancing in the sunshine.This is the first concert in CENTER COURT CONCERTS, Bluhawk's signature summer series bringing live outdoor music, family…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/surfin-safari-beach-boys-tribute-center-court-concerts-at-bluhawk/",
-=======
-    "url": "https://www.visitoverlandpark.com/surfin-safari-beach-boys-tribute-center-court-concerts-at-bluhawk/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/222a09bf-d8ab-4acf-9dc8-a2496a1e0a35.png",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1356,71 +800,12 @@
     "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
     "city": "Shawnee",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15628",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15628",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "DRAG BRUNCH at Nine Zero One Rooftop",
-    "date": "2026-06-07T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Nine Zero One Rooftop Bar & Lounge",
-    "city": "Kansas City",
-    "description": "Celebrate the kick off of summer with a Drag Brunch at Nine Zero One with dazzling performances, mimosas, and brunch favorites!",
-    "url": "https://www.eventbrite.com/e/drag-brunch-at-nine-zero-one-rooftop-tickets-1989344806869",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184447106%2F773838091153%2F1%2Foriginal.20260512-220420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.595&fp-y=0.438&s=1b1ba8985c5f6bce5a42fa4ae55f1cf6",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "SUNS OUT BUNS OUT",
-    "date": "2026-06-07T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "KC Wine Co",
-    "city": "Olathe",
-    "description": "Join us for a pop up Pilates sculpt class all about the BOOTY! Followed by a happy hour! Your ticket includes your drink, and BYOM (mat)!",
-    "url": "https://www.eventbrite.com/e/suns-out-buns-out-tickets-1989768503156",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184771440%2F2990723813918%2F1%2Foriginal.20260517-020603?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.544&fp-y=0.642&s=e5dd46aacc002a3383e79213b8111e5f",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "The 3rd Annual \"My Lil' Lemon Drop Day Party Festival\"",
-    "date": "2026-06-07T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "300 Unity Cir N",
-    "city": "Lee's Summit",
-    "description": "Lemon Drops Beautiful Views and Beautiful People. Join us at My Lil' Lemon Drop Day Party Festival",
-    "url": "https://www.eventbrite.com/e/the-3rd-annual-my-lil-lemon-drop-day-party-festival-tickets-1984220899123",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178722814%2F74710672331%2F1%2Foriginal.20260301-151028?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496&fp-y=0.047&s=fd4913827a02f6aa4d1b38fdc22889f0",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Skating With the Alphas Hot Summer Nights: Ice Cold Roll",
-    "date": "2026-06-07T05:00:00+00:00",
-    "end_date": "2026-06-07T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Skate City Shawnee Mission",
-    "city": "Merriam",
-    "description": "The Brothers of Omicron Xi Lambda are bringing the city together for a night of family, fun, and smooth skating vibes!",
-    "url": "https://www.eventbrite.com/e/skating-with-the-alphas-hot-summer-nights-ice-cold-roll-tickets-1986865301602",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181561605%2F929048974873%2F1%2Foriginal.20260407-023522?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.506&s=8a9a431cae0659565aaa2e6281256917",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "Kansas City Auto Show",
     "date": "2026-06-07T12:00:00+00:00",
     "end_date": "2026-06-07T21:00:00+00:00",
@@ -1428,11 +813,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "🚗✨ Kansas City, it’s BACK… and better than ever! ✨🚗 The Kansas City Auto Show returns June 4–7, 2026 — and we’re rolling into an exciting NEW HOME at the Overland Park Convention Center! Get ready to explore hundreds of new cars, trucks & SUVs all under one roof. Sit inside, compare models, and fin…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/kansas-city-auto-show/",
-=======
-    "url": "https://www.visitoverlandpark.com/kansas-city-auto-show/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/33fa3927-c990-40a6-b3e2-2d5ae9622140.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1445,11 +826,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Introducing Bingo Sundays at Craft Putt!Craft Putt is giving back to the local community by raising funds to support local non-profit organization. Join us from Noon to 2 PM to play a few rounds of Bingo and help us give back!Single Bingo cards cost $2 (or get a pack of 8 for $15). All proceeds gen…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/bingo-benefit-at-craft-putt/",
-=======
-    "url": "https://www.visitoverlandpark.com/bingo-benefit-at-craft-putt/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/b56c29e6-b919-4cea-bdf2-d265f5d90b96.png",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1462,11 +839,7 @@
     "venue": "Heritage Soccer Park - 17255 S Black Bob Road  Olathe KS 66062",
     "city": "Olathe",
     "description": "Join us for the Kansas City Unity Cup presented by Capitol Federal, in partnership with the Ethnic Enrichment Commission of Kansas City. https://www.jcprd.com/calendar.aspx?EID=17683",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17683",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1479,11 +852,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Add a little live music to your weekend plans at Aubrey Vineyards!Over 15 well-crafted wines are available for tastings while you enjoy live music from local KC artists on Sundays from 2-4pm.Check the schedule to see who is playing.",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/live-music-in-the-tasting-room/",
-=======
-    "url": "https://www.visitoverlandpark.com/live-music-in-the-tasting-room/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/114a6979-a66c-43c0-957f-fff4653d7e14.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1496,11 +865,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Country Jam Night every first Sunday of the month!! Grab your instrument or show off your vocal skills in the same iconic venue where legends like Garth Brooks, Toby Keith, Brooks & Dunn, Alan Jackson and many others took their first steps to stardom on KC’s biggest & hottest stage!Doors: @ 6PMStar…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/country-jam-night-at-guitars-cadillacs/",
-=======
-    "url": "https://www.visitoverlandpark.com/country-jam-night-at-guitars-cadillacs/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/images/calendar/Country-Stampede-Live-Music-Overland-Park_B80E5C48-D044-2C30-6DE2AC76ACE90F16.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1513,11 +878,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "AdventHealth South Overland Park is thrilled to host the Kansas City Symphony for a free outdoor Mobile Music Box concert. The Kansas City Symphony musicians bring the music to you, from familiar classics to uplifting modern works. Join AdventHealth for free music, giveaways and fun. KC Whip and Co…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/mobile-music-box-concert/",
-=======
-    "url": "https://www.visitoverlandpark.com/mobile-music-box-concert/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/965d9b8f-9312-4212-89b3-c2a620c83b97.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1530,11 +891,7 @@
     "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
     "city": "Shawnee",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15629",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15629",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1547,11 +904,7 @@
     "venue": "<h1 style=\"color: rgb(0",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=16857",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16857",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=71",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1564,11 +917,7 @@
     "venue": "<h1 style=\"color: rgb(0",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=16858",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16858",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=71",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1581,11 +930,7 @@
     "venue": "<h1 style=\"color: rgb(0",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=16871",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16871",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=71",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1598,11 +943,7 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17781",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17781",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1615,11 +956,7 @@
     "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15824",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15824",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1632,11 +969,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17125",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17125",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1649,11 +982,7 @@
     "venue": "<p><span style=\"color: rgb(34",
     "city": "Overland Park",
     "description": "This social, multi-medium art class invites participants to explore creativity at their own pace. Experiment with watercolor, mixed media, and other techniques while receiving guidance and inspiration from the instructor and fellow artists. Each session encourages hands-on practice, skill developme…",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17432",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1666,11 +995,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16021",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16021",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1683,11 +1008,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Avenue   Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16369",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16369",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1700,11 +1021,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Spend your Monday evening surrounded by music and craft beer. Robert Pankey from the Kansas City Vinyl Collectors sets up at Discourse Brewing every week from 5 to 8 PM with records from his personal collection available to browse and buy (cash only). Sip on locally brewed beers while flipping thro…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/grooves-brews/",
-=======
-    "url": "https://www.visitoverlandpark.com/grooves-brews/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/f575afe7-dcc1-4805-9fc8-be25900b48ea.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1717,11 +1034,7 @@
     "venue": "Meadowbrook Park  > Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15969",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15969",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=68",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1734,11 +1047,7 @@
     "venue": "-",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15490",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15490",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1751,11 +1060,7 @@
     "venue": "-",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15502",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15502",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1768,11 +1073,7 @@
     "venue": "-",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15515",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15515",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1785,11 +1086,7 @@
     "venue": "-",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15528",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15528",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1802,84 +1099,12 @@
     "venue": "-",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15540",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15540",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "NAWBO KC Monthly Breakfast",
-    "date": "2026-06-09T05:00:00+00:00",
-    "end_date": "2026-06-09T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Training Umbrella",
-    "city": "Overland Park",
-    "description": "Join us to network, grow, build your business, influence, inspire, and thrive!",
-    "url": "https://www.eventbrite.com/e/nawbo-kc-monthly-breakfast-tickets-1985680967226",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F909529493%2F183658742476%2F1%2Foriginal.20241202-005907?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.402723735409&fp-y=0.446498054475&s=6115b20192e98a5126c996e75303f837",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Kansas City AI Club & KC-DAMA Event | June 9, 2026 | AI & Data Governance",
-    "date": "2026-06-09T05:00:00+00:00",
-    "end_date": "2026-06-09T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "American Century Investments",
-    "city": "Kansas City",
-    "description": "Join the Kansas City AI Club & KC-DAMA for a special event on Tues., June 9: AI & Data Governance Presentation + Panel Discussion",
-    "url": "https://www.eventbrite.com/e/kansas-city-ai-club-kc-dama-event-june-9-2026-ai-data-governance-tickets-1988052674065",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182982721%2F1490627830783%2F1%2Foriginal.20260424-174534?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0cc11d24460be10dcae6f03a4098d0ce",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "6/9- Kansas City, Mo- Country Club Plaza- Gold Rush",
-    "date": "2026-06-09T05:00:00+00:00",
-    "end_date": "2026-06-09T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "4686 Broadway Blvd",
-    "city": "Kansas City",
-    "description": "6/9 Gold Rush- Wine Club Pairing Dinner",
-    "url": "https://www.eventbrite.com/e/69-kansas-city-mo-country-club-plaza-gold-rush-tickets-1986444317427",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181135266%2F227364461818%2F1%2Foriginal.20260331-201730?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.515&fp-y=0.387&s=3dcdccea185caf694711dd3e8582c42e",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Comprehensive  Arts Institute 15 Year  Anniversary Gala",
-    "date": "2026-06-09T05:00:00+00:00",
-    "end_date": "2026-06-09T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Bruce R Watkins, cultural heritage center",
-    "city": "KansasCity",
-    "description": "Join us in person to celebrate 15 amazing years of creativity and community at the Comprehensive Arts Institute Gala!",
-    "url": "https://www.eventbrite.com/e/comprehensive-arts-institute-15-year-anniversary-gala-tickets-1983237308176",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178212388%2F276777222750%2F1%2Foriginal.20260223-163316?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=154db7d05ff07362ef7ba0a5e7ecb8b2",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "6/9- Lee's Summit, MO- Gold Rush",
-    "date": "2026-06-09T05:00:00+00:00",
-    "end_date": "2026-06-09T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Cooper’s Hawk Winery & Restaurant",
-    "city": "Lee's Summit",
-    "description": "6/9 Gold Rush- Wine Club Pairing Dinner",
-    "url": "https://www.eventbrite.com/e/69-lees-summit-mo-gold-rush-tickets-1987935498590",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181135266%2F227364461818%2F1%2Foriginal.20260331-201730?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.515&fp-y=0.387&s=ad5ece4ba056bf93a006eca9ffe24a60",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "7:30 am - 11:00 am (1 lane) - Long Course",
     "date": "2026-06-09T12:30:00+00:00",
     "end_date": "2026-06-09T16:00:00+00:00",
@@ -1887,11 +1112,7 @@
     "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15844",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15844",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1904,11 +1125,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16073",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16073",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1921,11 +1138,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17126",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17126",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1938,11 +1151,7 @@
     "venue": "Roeland Park Campus > Roeland Park Community Center (RPCC) - 4850 Rosewood Drive  Roeland Park KS 66205",
     "city": "Roeland Park",
     "description": "Step into an inspiring chapter of American history with a presentation by the Buffalo Soldiers Alexander/Madison Chapter of Kansas City. https://www.jcprd.com/calendar.aspx?EID=17722",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17722",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1955,11 +1164,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16149",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16149",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -1972,11 +1177,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Spend your summer evenings surrounded by nature and live music at the Overland Park Arboretum & Botanical Gardens! Enjoy extended hours in the gardens while soaking in the sounds of incredible live bands playing for two hours. Café Celeste will be open, serving up delicious food and refreshing drin…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/music-nights-at-the-arboretum-beam-and-eads/",
-=======
-    "url": "https://www.visitoverlandpark.com/music-nights-at-the-arboretum-beam-and-eads/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/18355571-f517-41db-a28e-d381d947a261.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -1989,11 +1190,7 @@
     "venue": "<p>Meadowbrook Park Clubhouse</p> - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16448",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16448",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=68",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2006,11 +1203,7 @@
     "venue": "<p><span style=\"color: rgb(34",
     "city": "Overland Park",
     "description": "This social, multi-medium art class invites participants to explore creativity at their own pace. Experiment with watercolor, mixed media, and other techniques while receiving guidance and inspiration from the instructor and fellow artists. Each session encourages hands-on practice, skill developme…",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17501",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2023,11 +1216,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Come enjoy a pint while learning about a wide variety of STEM topics every second Tuesday of the month. Doors open at 6:30 and speakers start at 7 and 8pm. Outside food is always welcome. Speakers for each event will be announced a few weeks in advance. Follow STEM on Tap KC for the latest informat…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/stem-on-tap-at-discourse-brewing/",
-=======
-    "url": "https://www.visitoverlandpark.com/stem-on-tap-at-discourse-brewing/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/b29ebacb-8793-4995-a44d-6e7492993b3a.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2040,11 +1229,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Show off your knowledge at Chicken N Pickle every Tuesday night for Trivia Night! Starting at 7pm!",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/tuesday-trivia-at-chicken-n-pickle/",
-=======
-    "url": "https://www.visitoverlandpark.com/tuesday-trivia-at-chicken-n-pickle/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/e160b772-de42-4999-9d13-936dfa9f7af0.png",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2057,11 +1242,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Join us every Tuesday for Trivia & Tacos!General Trivia starts at 7 PM.Prizes are awarded to the top 3 teams, with a $50 gift card for first place!👪 Free to play! No age limitations.🌮 Taco Tuesday runs all day with $2.50 tacos🍹$5 Margaritas",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/taco-trivia-tuesday-at-craft-putt/",
-=======
-    "url": "https://www.visitoverlandpark.com/taco-trivia-tuesday-at-craft-putt/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/images/calendar/Taco-Tuesday_594B3917-B011-D638-8C24B86507A0ECA4.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2074,32 +1255,12 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17801",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17801",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "Next Millionaire KC | The event for KC's Growth Minded Business Owners",
-    "date": "2026-06-10T05:00:00+00:00",
-    "end_date": "2026-06-10T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "ACA Business Club | Overland Park",
-    "city": "Overland Park",
-    "description": "A free live event for Kansas City business owners ready to stop grinding and start building a business worth owning — and worth selling.",
-    "url": "https://www.eventbrite.com/e/next-millionaire-kc-the-event-for-kcs-growth-minded-business-owners-tickets-1990505104350",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992894483%2F232333868859%2F1%2Foriginal.20250326-042133?crop=focalpoint&fit=crop&h=200&w=412&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9d7e6713673715c9627bdc056967b8a4",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "Long Course Practice: 5:30 am - 7:00 am ",
     "date": "2026-06-10T10:30:00+00:00",
     "end_date": "2026-06-10T12:00:00+00:00",
@@ -2107,11 +1268,7 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17782",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17782",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2124,11 +1281,7 @@
     "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15854",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15854",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2141,11 +1294,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17127",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17127",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2158,11 +1307,7 @@
     "venue": "<p>Johnson County Museum</p> - 8788 Metcalf Ave.  Overland Park KS 66212",
     "city": "Overland Park",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15613",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15613",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2175,11 +1320,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16253",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16253",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2192,11 +1333,7 @@
     "venue": "<p>Meadowbrook Park Clubhouse</p> - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16487",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16487",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=68",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2209,11 +1346,7 @@
     "venue": "<p>Matt Ross Community Center&nbsp;</p> - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "This social, multi-medium art class invites participants to explore creativity at their own pace. Experiment with watercolor, mixed media, and other techniques while receiving guidance and inspiration from the instructor and fellow artists. Each session encourages hands-on practice, skill developme…",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17390",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2226,11 +1359,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Stop by Discourse Brewing for community, great beer, and TRIVIA on Wednesdays at 7pm.Hosted by Big 5 Trivia, there's a different theme to test your knowledge on every week.Need brain food? Enjoy Point and Flat BBQ, serving up a small menu from 5pm until it's all gone!",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/big-5-trivia-at-discourse-brewing/",
-=======
-    "url": "https://www.visitoverlandpark.com/big-5-trivia-at-discourse-brewing/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/146b5a08-f84e-497f-8d91-fc48e27a43fd.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2243,45 +1372,12 @@
     "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
     "city": "Shawnee",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15630",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15630",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "Engagement That Moves Us",
-    "date": "2026-06-11T05:00:00+00:00",
-    "end_date": "2026-06-11T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Clarkson Construction Company",
-    "city": "Kansas City",
-    "description": "Transforming Transportation Infrastructure Through Public Involvement",
-    "url": "https://www.eventbrite.com/e/engagement-that-moves-us-tickets-1989924035357",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184969646%2F137610714952%2F1%2Foriginal.20260519-182901?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3c6ee06f46dfcf0beabbd2bb4735e9ab",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Open Drawing+",
-    "date": "2026-06-11T05:00:00+00:00",
-    "end_date": "2026-06-11T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Kemper Museum of Contemporary Art",
-    "city": "Kansas City",
-    "description": "Open Drawing+ transforms the museum into a space for sound, exploration, and making for all ages!",
-    "url": "https://www.eventbrite.com/e/open-drawing-tickets-1988644467134",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183546382%2F2985372628002%2F1%2Foriginal.20260501-191722?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e20e8c864322e7cd7fc62a24d60d59f3",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "SERVN Up Soccer at SERV",
     "date": "2026-06-11T05:00:00+00:00",
     "end_date": "2026-07-20T04:59:00+00:00",
@@ -2289,11 +1385,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "SERV is your headquarters for every match, watch party, and soccer-filled weekend this summer.SERV’N UP SOCCER brings together movie nights, international friendlies, opening kickoff celebrations, and full-day watch party experiences all summer long. Whether you’re here to support your country, exp…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/servn-up-soccer-at-serv/",
-=======
-    "url": "https://www.visitoverlandpark.com/servn-up-soccer-at-serv/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/4108ff3f-f0c8-4297-a068-5993c0bc78d8.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2306,11 +1398,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Lucky Strike is hosting FIFA World Cup 2026 watch parties in partnership with Casamigos, an official supporter of the FIFA World Cup 2026. Casamigos will be taking over Lucky Strike for all 39 days of the tournament.Join us for all 104 matches from June 11 – July 19 and enjoy Casamigos specialty co…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/watch-every-match-at-lucky-strike/",
-=======
-    "url": "https://www.visitoverlandpark.com/watch-every-match-at-lucky-strike/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/7626a8e6-ee44-4e10-828a-8f51f32458c4.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2323,11 +1411,7 @@
     "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15864",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15864",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2340,11 +1424,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17128",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17128",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2357,11 +1437,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "⚽ THE PITCH IS CALLING. THE SCREENS ARE WAITING. Don't let the pressure get to you. Lock in your seat, 40-foot screen access, All-You-Can-Eat Wings & Fries during the match, Unlimited Video Game Play all day, and more big surprises with the Hat Trick Watch Experience at Dave & Buster’s.❗ Starting a…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/hat-trick-watch-experience-kick-off-game/",
-=======
-    "url": "https://www.visitoverlandpark.com/hat-trick-watch-experience-kick-off-game/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/2cb7b5e9-07c2-4f4d-b082-f47bb3dcfc34.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2374,11 +1450,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16150",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16150",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2391,11 +1463,7 @@
     "venue": "<p>Meadowbrook Park Clubhouse</p> - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16527",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16527",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=68",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2408,11 +1476,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Avenue   Overland Park KS 66213",
     "city": "Overland Park",
     "description": "For more information and a complete list of drop-in programs. https://www.jcprd.com/calendar.aspx?EID=16409",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16409",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2425,11 +1489,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Rev up your engines and join us for a spectacular car show featuring classic and contemporary vehicles. Enjoy great cars, food, live music and fun for the whole family.",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/downtown-overland-park-car-show/",
-=======
-    "url": "https://www.visitoverlandpark.com/downtown-overland-park-car-show/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/b980c299-94b6-497f-8652-e1708f0bb659.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2442,11 +1502,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Grab your blankets and lawn chairs and join us at the Thompson Park stage for an evening of incredible live music and community spirit. 2026 Concert Schedule:🎶 Thursday, June 11: Elisia Isreal (arrive early to catch the Downtown OP Car Show!)🎶 Thursday, July 9: Soca Jukebox 🎶 Thursday, August 13: T…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/concerts-in-the-park/",
-=======
-    "url": "https://www.visitoverlandpark.com/concerts-in-the-park/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/b083b845-234d-4296-82b2-51edd1c0fdc4.JPG",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2459,11 +1515,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "🎤 Live Bands Every Thursday from 7-10pm 🍻 Yes, You Can Walk Around with Your Drink! 🕺 Dancing? Encouraged. Singing along? That’s up to your friends. Join us every Thursday night for live music under the stars, cold drinks in hand, and summer vibes on full blast! Whether you’re here for the party ja…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/prairiefire-summer-music-series/",
-=======
-    "url": "https://www.visitoverlandpark.com/prairiefire-summer-music-series/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/4ac4d73c-cfb5-4d94-a44e-4685cd22f775.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2476,11 +1528,7 @@
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17802",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17802",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2493,45 +1541,12 @@
     "venue": "<p>Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd</p> -   JCPRD KS 66219",
     "city": "Shawnee",
     "description": "https://www.jcprd.com/calendar.aspx?EID=15631",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15631",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
   },
   {
-<<<<<<< HEAD
-    "title": "Rap, Reps & Recovery",
-    "date": "2026-06-12T05:00:00+00:00",
-    "end_date": "2026-06-12T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "The Studio School of Dance",
-    "city": "Olathe",
-    "description": "Rap, Reps & Recovery is where a fitness class becomes a party!",
-    "url": "https://www.eventbrite.com/e/rap-reps-recovery-registration-1989542517226",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173806189%2F233938120559%2F1%2Foriginal.20260101-203940?h=200&w=412&auto=format%2Ccompress&q=75&sharp=10&s=f4d0fc9aced46b6f4bc030eb48aa300f",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Royals Tailgate & Game",
-    "date": "2026-06-12T05:00:00+00:00",
-    "end_date": "2026-06-12T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "1 Royal Way",
-    "city": "Kansas City",
-    "description": "Join the community for a night of fun and baseball at Kauffman Stadium!",
-    "url": "https://www.eventbrite.com/e/royals-tailgate-game-tickets-1988522853384",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183440230%2F572996988237%2F1%2Foriginal.20260430-153324?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1c3f5df1017a6987fabf219d56310fd",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-=======
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "title": "7:30 am - 11:00 am (1 lane) - Long Course",
     "date": "2026-06-12T12:30:00+00:00",
     "end_date": "2026-06-12T16:00:00+00:00",
@@ -2539,11 +1554,7 @@
     "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15884",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15884",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=64",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2556,11 +1567,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16335",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16335",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2573,11 +1580,7 @@
     "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17129",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17129",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2590,11 +1593,7 @@
     "venue": "<p><span style=\"color: rgb(34",
     "city": "Overland Park",
     "description": "This social, multi-medium art class invites participants to explore creativity at their own pace. Experiment with watercolor, mixed media, and other techniques while receiving guidance and inspiration from the instructor and fellow artists. Each session encourages hands-on practice, skill developme…",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17433",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2607,11 +1606,7 @@
     "venue": "",
     "city": "Overland Park",
     "description": "Join us for the annual Downtown Overland Park Art Fair on June 12th from 4pm to 9pm and June 13th from 8am to 4pm!Enjoy a summer weekend in Downtown OP with a extended layout, extended hours, more food trucks, live music, children’s activities and 100+ juried artists!Vendors and entertainment will…",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/downtown-overland-park-art-fair/",
-=======
-    "url": "https://www.visitoverlandpark.com/downtown-overland-park-art-fair/",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": "https://files.idss.com/C514/79e8283e-23e1-478a-8237-740b91c1072f.jpg",
     "is_free": false,
     "source": "Visit Overland Park"
@@ -2624,11 +1619,7 @@
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16254",
-<<<<<<< HEAD
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16254",
-=======
-    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=70",
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2641,7 +1632,6 @@
     "venue": "",
     "city": "Overland Park",
     "description": "A fun, social, beginner-friendly pottery class perfect for date nights, girls’ nights, and anyone looking to try something creative. Guests are guided step-by-step through a hand-built pottery project in a relaxed, welcoming environment. No experience needed. 21+.",
-<<<<<<< HEAD
     "url": "https://www.visitoverlandpark.com/events/pottery-pinot-at-house-of-clay-21/",
     "image_url": "https://files.idss.com/C514/afa6c917-d4a7-48c8-aab8-119b050d9f78.png",
     "is_free": false,
@@ -2659,84 +1649,6 @@
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
-  },
-  {
-    "title": "Experience the Genius of Frank Lloyd Wright",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "4601 Main St",
-    "city": "Kansas City",
-    "description": "Explore a rare Frank Lloyd Wright church in Kansas City with expert speakers, guided tours, and unique insights.",
-    "url": "https://www.eventbrite.com/e/experience-the-genius-of-frank-lloyd-wright-tickets-1988936511647",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183951618%2F3001175759955%2F1%2Foriginal.20260506-193817?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.429&s=848e81f4d0ca7e4906067141d5f9485b",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Sweat & Sip with Kansas City Pilates Club",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Bruú Café",
-    "city": "Leawood",
-    "description": "Your ideal Saturday morning, elevated ✨ Join us at Bruu Leawood for a feel-good mat Pilates class",
-    "url": "https://www.eventbrite.com/e/sweat-sip-with-kansas-city-pilates-club-tickets-1988256556884",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183462320%2F2998194917101%2F1%2Foriginal.20260430-193225?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b19853ffc4098cd80b397155e1513287",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "EmpowerHER Luncheon",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "The Party House By Lifeofthepartykc",
-    "city": "Grandview",
-    "description": "Join us for a powerful and uplifting brunch experience designed to inspire, restore, and empower women!",
-    "url": "https://www.eventbrite.com/e/empowerher-luncheon-tickets-1986602873673",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182829344%2F297975636142%2F1%2Foriginal.20260422-225156?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.551&fp-y=0.676&s=3e0a029ae76c34c1fbf06ae7f29e4b6c",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "The Interrupted Supper",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "BoysGrow Farm",
-    "city": "Kansas City",
-    "description": "Enjoy an interactive evening of good food and dancing, including guided Bollywood dance and a live DJ for dancing. All to support BoysGrow.",
-    "url": "https://www.eventbrite.com/e/the-interrupted-supper-tickets-1987842029020",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184329055%2F15744433923%2F1%2Foriginal.20260511-192222?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4af04dbd57daaaf1186921e1ecb02df3",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Elevation — a quarterly immersive",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Community Center Of Olathe",
-    "city": "Olathe",
-    "description": "A one-day immersive for leaders who want their inner life to match their outer impact — across business, relationships, and friendships.",
-    "url": "https://www.eventbrite.com/e/elevation-a-quarterly-immersive-tickets-1984103803888",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181118188%2F2870865084061%2F1%2Foriginal.20260331-173729?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e7903c468cdb7d6df32b704993d016df",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "Summer Hobby Fest Presented by The Johnson County Card Show",
-    "date": "2026-06-13T05:00:00+00:00",
-    "end_date": "2026-06-13T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Homefield Olathe",
-    "city": "Olathe",
-    "description": "We’re celebrating in a big way! Join us as we honor a year of growth, new friendships, new venue, and amazing community support.",
-    "url": "https://www.eventbrite.com/e/summer-hobby-fest-presented-by-the-johnson-county-card-show-tickets-1990138043461",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185172624%2F1978150134373%2F1%2Foriginal.20260521-213137?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c2535232ec375fc1644e2496a342b084",
-    "is_free": true,
-    "source": "Eventbrite"
   },
   {
     "title": "Juneteenth at Prairiefire",
@@ -2895,32 +1807,6 @@
     "source": "JCPRD"
   },
   {
-    "title": "Watch Party: Ecuador vs Ivory Coast",
-    "date": "2026-06-14T05:00:00+00:00",
-    "end_date": "2026-06-14T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Revel Sports Tavern",
-    "city": "Overland Park",
-    "description": "¡Vean toda la acción en vivo y anima a Ecuador y Costa de Marfil mientras luchan en el campo de futbol!",
-    "url": "https://www.eventbrite.com/e/watch-party-ecuador-vs-ivory-coast-tickets-1990185913642",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185229574%2F370459833487%2F1%2Foriginal.20260522-163631?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.478&fp-y=0.821&s=41599cf4c77e78d5e859de2dfc93be9c",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
-    "title": "2 PM - Love to Garden Beginner Plus Cookie Decorating Class (Overland Park)",
-    "date": "2026-06-14T05:00:00+00:00",
-    "end_date": "2026-06-14T05:00:00+00:00",
-    "time": "12:00 AM – 12:00 AM",
-    "venue": "Saint Mark's United Methodist Church",
-    "city": "Overland Park",
-    "description": "This Beginner Plus class is for decorators who are ready to take their decorating up a level!",
-    "url": "https://www.eventbrite.com/e/2-pm-love-to-garden-beginner-plus-cookie-decorating-class-overland-park-tickets-1988454265235",
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183296283%2F1373825346933%2F1%2Foriginal.20260429-033638?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.379&s=2325fd5399876c7a067f96b32a5bbd8c",
-    "is_free": true,
-    "source": "Eventbrite"
-  },
-  {
     "title": "Bingo & Benefit at Craft Putt",
     "date": "2026-06-14T12:00:00+00:00",
     "end_date": "2026-06-14T14:00:00+00:00",
@@ -2945,11 +1831,5 @@
     "image_url": "https://files.idss.com/C514/114a6979-a66c-43c0-957f-fff4653d7e14.jpeg",
     "is_free": false,
     "source": "Visit Overland Park"
-=======
-    "url": "https://www.visitoverlandpark.com/pottery-pinot-at-house-of-clay-21/",
-    "image_url": "https://files.idss.com/C514/afa6c917-d4a7-48c8-aab8-119b050d9f78.png",
-    "is_free": false,
-    "source": "Visit Overland Park"
->>>>>>> 3dba3c599ebf0889dfd02110236ce45a64d7d21c
   }
 ]
