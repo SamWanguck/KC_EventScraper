@@ -160,6 +160,10 @@ def scrape_jcprd(now: datetime) -> list[Event]:
                     continue
 
                 location = str(comp.get("LOCATION") or "")
+                # JCPRD iCal URL field is a generic feed URL; build the real
+                # event detail page from the numeric UID instead.
+                event_url = (f"https://www.jcprd.com/Calendar.aspx?EID={uid}"
+                             if uid.isdigit() else "https://www.jcprd.com/calendar.aspx")
                 events.append(Event(
                     title=str(comp.get("SUMMARY") or "Untitled"),
                     date=_to_iso(start_dt) or "",
@@ -168,7 +172,7 @@ def scrape_jcprd(now: datetime) -> list[Event]:
                     venue=location.split(",")[0].strip(),
                     city=_guess_city(location),
                     description=_truncate(str(comp.get("DESCRIPTION") or "")),
-                    url=str(comp.get("URL") or "https://www.jcprd.com/calendar.aspx"),
+                    url=event_url,
                     image_url=None,
                     is_free=True,
                     source="JCPRD",
@@ -383,8 +387,13 @@ def scrape_visit_op(now: datetime) -> list[Event]:
             if end_dt and end_dt < now:
                 continue
 
+            # Algolia returns bare slugs like "/julie-buffalohead-stories…/";
+            # real event pages live under /events/<slug>/.
             uri = hit.get("uri") or ""
-            full_url = f"https://www.visitoverlandpark.com{uri}" if uri.startswith("/") else uri
+            if uri.startswith("/events/") or not uri.startswith("/"):
+                full_url = uri if uri.startswith("http") else f"https://www.visitoverlandpark.com{uri}"
+            else:
+                full_url = f"https://www.visitoverlandpark.com/events{uri}"
             venue_obj = hit.get("location") or {}
             venue = (venue_obj.get("name") if isinstance(venue_obj, dict) else "") or hit.get("venueName") or ""
 
