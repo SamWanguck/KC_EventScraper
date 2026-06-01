@@ -72,9 +72,23 @@ class Event:
         return score
 
 
+def _strip_html(text: str | None) -> str:
+    """Convert HTML fragments to clean plain text. JCPRD's iCal feed embeds
+    <p>, <span style=...>, etc. directly in LOCATION and DESCRIPTION fields."""
+    if not text:
+        return ""
+    # Fast path: no tags at all
+    if "<" not in text and "&" not in text:
+        return text
+    return BeautifulSoup(text, "lxml").get_text(" ", strip=True)
+
+
 def _truncate(text: str | None, n: int = 300) -> str:
     if not text:
         return ""
+    text = _strip_html(text)
+    # Remove any stray self-referential URLs that some feeds append to the body
+    text = re.sub(r"https?://\S+", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     if len(text) <= n:
         return text
@@ -159,13 +173,14 @@ def scrape_jcprd(now: datetime) -> list[Event]:
                 if not _in_window(start_dt, now):
                     continue
 
-                location = str(comp.get("LOCATION") or "")
+                location = _strip_html(str(comp.get("LOCATION") or ""))
+                title = _strip_html(str(comp.get("SUMMARY") or "Untitled"))
                 # JCPRD iCal URL field is a generic feed URL; build the real
                 # event detail page from the numeric UID instead.
                 event_url = (f"https://www.jcprd.com/Calendar.aspx?EID={uid}"
                              if uid.isdigit() else "https://www.jcprd.com/calendar.aspx")
                 events.append(Event(
-                    title=str(comp.get("SUMMARY") or "Untitled"),
+                    title=title,
                     date=_to_iso(start_dt) or "",
                     end_date=_to_iso(end_dt),
                     time=_format_time(start_dt, end_dt),
