@@ -82,9 +82,15 @@
     "date": "2026-06-01T21:30:00+00:00",
     "end_date": "2026-06-02T00:30:00+00:00",
     "time": "4:30 PM – 7:30 PM",
+<<<<<<< HEAD
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters)",
+=======
+    "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
+    "city": "Lenexa",
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15833",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15833",
     "image_url": null,
     "is_free": true,
@@ -227,7 +233,11 @@
     "time": "5:45 PM – 7:15 PM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17799",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17799",
     "image_url": null,
     "is_free": true,
@@ -513,7 +523,11 @@
     "time": "5:45 PM – 7:15 PM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17800",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17800",
     "image_url": null,
     "is_free": true,
@@ -825,7 +839,11 @@
     "time": "7:30 AM – 9:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17818",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17818",
     "image_url": null,
     "is_free": true,
@@ -903,7 +921,11 @@
     "time": "8:00 PM – 10:30 PM",
     "venue": "Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd -   JCPRD KS 66219",
     "city": "Shawnee",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15628",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15628",
     "image_url": null,
     "is_free": true,
@@ -981,7 +1003,11 @@
     "time": "9:00 AM – 4:00 PM",
     "venue": "Heritage Soccer Park - 17255 S Black Bob Road  Olathe KS 66062",
     "city": "Olathe",
+<<<<<<< HEAD
     "description": "Join us for the Kansas City Unity Cup presented by Capitol Federal, in partnership with the Ethnic Enrichment Commission of Kansas City.",
+=======
+    "description": "Join us for the Kansas City Unity Cup presented by Capitol Federal, in partnership with the Ethnic Enrichment Commission of Kansas City. https://www.jcprd.com/calendar.aspx?EID=17683",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17683",
     "image_url": null,
     "is_free": true,
@@ -1033,7 +1059,11 @@
     "time": "8:00 PM – 10:30 PM",
     "venue": "Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd -   JCPRD KS 66219",
     "city": "Shawnee",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15629",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15629",
     "image_url": null,
     "is_free": true,
@@ -1046,7 +1076,11 @@
     "time": "12:00 AM – 12:00 AM",
     "venue": "Intro to Shop",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=16857",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16857",
     "image_url": null,
     "is_free": true,
@@ -1059,7 +1093,11 @@
     "time": "12:00 AM – 12:00 AM",
     "venue": "Intro to Stage and SFX Makeup Design (Ages 12 - 18) It’s time to TRANSFORM utilizing the power of Makeup! This camp will dive right into what it means to ‘paint a face’ for the stage – as well as Special Effects Makeup design. Makeup can be used to truly transform the performer into a beautiful showgirl",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=16858",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16858",
     "image_url": null,
     "is_free": true,
@@ -1072,7 +1110,11 @@
     "time": "12:00 AM – 12:00 AM",
     "venue": "Madagascar A Musical Adventure Jr. (Ages 10 - 16) Campers will bring to life the hilarious adventure of Alex the Lion",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=16871",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16871",
     "image_url": null,
     "is_free": true,
@@ -1085,7 +1127,11 @@
     "time": "5:30 AM – 7:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17781",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17781",
     "image_url": null,
     "is_free": true,
@@ -1098,7 +1144,11 @@
     "time": "5:30 AM – 10:30 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Long Course (50-meters)",
+=======
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15824",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15824",
     "image_url": null,
     "is_free": true,
@@ -1111,7 +1161,11 @@
     "time": "9:00 AM – 1:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17125",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17125",
     "image_url": null,
     "is_free": true,
@@ -1137,7 +1191,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16021",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16021",
     "image_url": null,
     "is_free": true,
@@ -1150,7 +1208,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Avenue   Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16369",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16369",
     "image_url": null,
     "is_free": true,
@@ -1176,7 +1238,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Meadowbrook Park  > Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15969",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15969",
     "image_url": null,
     "is_free": true,
@@ -1189,7 +1255,11 @@
     "time": "5:30 PM – 6:30 PM",
     "venue": "-",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15490",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15490",
     "image_url": null,
     "is_free": true,
@@ -1202,7 +1272,11 @@
     "time": "5:30 PM – 6:30 PM",
     "venue": "-",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15502",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15502",
     "image_url": null,
     "is_free": true,
@@ -1215,7 +1289,11 @@
     "time": "5:30 PM – 6:30 PM",
     "venue": "-",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15515",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15515",
     "image_url": null,
     "is_free": true,
@@ -1228,7 +1306,11 @@
     "time": "5:30 PM – 6:30 PM",
     "venue": "-",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15528",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15528",
     "image_url": null,
     "is_free": true,
@@ -1241,7 +1323,11 @@
     "time": "5:30 PM – 6:30 PM",
     "venue": "-",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15540",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15540",
     "image_url": null,
     "is_free": true,
@@ -1306,7 +1392,11 @@
     "time": "7:30 AM – 11:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Long Course (50-meters)",
+=======
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15844",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15844",
     "image_url": null,
     "is_free": true,
@@ -1319,7 +1409,11 @@
     "time": "8:30 AM – 11:00 AM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16073",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16073",
     "image_url": null,
     "is_free": true,
@@ -1332,7 +1426,11 @@
     "time": "9:00 AM – 1:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17126",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17126",
     "image_url": null,
     "is_free": true,
@@ -1345,7 +1443,11 @@
     "time": "12:00 PM – 1:30 PM",
     "venue": "Roeland Park Campus > Roeland Park Community Center (RPCC) - 4850 Rosewood Drive  Roeland Park KS 66205",
     "city": "Roeland Park",
+<<<<<<< HEAD
     "description": "Step into an inspiring chapter of American history with a presentation by the Buffalo Soldiers Alexander/Madison Chapter of Kansas City.",
+=======
+    "description": "Step into an inspiring chapter of American history with a presentation by the Buffalo Soldiers Alexander/Madison Chapter of Kansas City. https://www.jcprd.com/calendar.aspx?EID=17722",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17722",
     "image_url": null,
     "is_free": true,
@@ -1358,7 +1460,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16149",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16149",
     "image_url": null,
     "is_free": true,
@@ -1384,7 +1490,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16448",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16448",
     "image_url": null,
     "is_free": true,
@@ -1449,7 +1559,11 @@
     "time": "5:45 PM – 7:15 PM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17801",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17801",
     "image_url": null,
     "is_free": true,
@@ -1475,7 +1589,11 @@
     "time": "5:30 AM – 7:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17782",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17782",
     "image_url": null,
     "is_free": true,
@@ -1488,7 +1606,11 @@
     "time": "5:30 AM – 10:30 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Long Course (50-meters)",
+=======
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15854",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15854",
     "image_url": null,
     "is_free": true,
@@ -1501,7 +1623,11 @@
     "time": "9:00 AM – 1:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17127",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17127",
     "image_url": null,
     "is_free": true,
@@ -1514,7 +1640,11 @@
     "time": "10:00 AM – 10:45 AM",
     "venue": "Johnson County Museum - 8788 Metcalf Ave.  Overland Park KS 66212",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15613",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15613",
     "image_url": null,
     "is_free": true,
@@ -1527,7 +1657,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16253",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16253",
     "image_url": null,
     "is_free": true,
@@ -1540,7 +1674,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16487",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16487",
     "image_url": null,
     "is_free": true,
@@ -1579,7 +1717,11 @@
     "time": "8:00 PM – 10:30 PM",
     "venue": "Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd -   JCPRD KS 66219",
     "city": "Shawnee",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15630",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15630",
     "image_url": null,
     "is_free": true,
@@ -1644,7 +1786,11 @@
     "time": "7:00 AM – 11:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Long Course (50-meters)",
+=======
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15864",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15864",
     "image_url": null,
     "is_free": true,
@@ -1657,7 +1803,11 @@
     "time": "9:00 AM – 1:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17128",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17128",
     "image_url": null,
     "is_free": true,
@@ -1683,7 +1833,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16150",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16150",
     "image_url": null,
     "is_free": true,
@@ -1696,7 +1850,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16527",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16527",
     "image_url": null,
     "is_free": true,
@@ -1709,7 +1867,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Avenue   Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "For more information and a complete list of drop-in programs.",
+=======
+    "description": "For more information and a complete list of drop-in programs. https://www.jcprd.com/calendar.aspx?EID=16409",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16409",
     "image_url": null,
     "is_free": true,
@@ -1761,7 +1923,11 @@
     "time": "5:45 PM – 7:15 PM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17802",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17802",
     "image_url": null,
     "is_free": true,
@@ -1774,7 +1940,11 @@
     "time": "8:00 PM – 10:30 PM",
     "venue": "Theatre in the Park at Shawnee Mission Park. 7710 Renner Rd -   JCPRD KS 66219",
     "city": "Shawnee",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15631",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15631",
     "image_url": null,
     "is_free": true,
@@ -1800,7 +1970,11 @@
     "time": "7:30 AM – 11:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Long Course (50-meters)",
+=======
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15884",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15884",
     "image_url": null,
     "is_free": true,
@@ -1813,7 +1987,11 @@
     "time": "8:30 AM – 11:00 AM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16335",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16335",
     "image_url": null,
     "is_free": true,
@@ -1826,7 +2004,11 @@
     "time": "9:00 AM – 1:00 PM",
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17129",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17129",
     "image_url": null,
     "is_free": true,
@@ -1865,7 +2047,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16254",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16254",
     "image_url": null,
     "is_free": true,
@@ -2184,6 +2370,7 @@
     "source": "Visit Overland Park"
   },
   {
+<<<<<<< HEAD
     "title": "TIP Tech Academy - Stage Makeup & Prosthetics for \"Madagascar\"",
     "date": "2026-06-15T05:00:00+00:00",
     "end_date": "2026-06-18T05:00:00+00:00",
@@ -2192,6 +2379,16 @@
     "city": "Overland Park",
     "description": "",
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16860",
+=======
+    "title": "TIP Tech Academy - Scenic Painting for \"Madagascar\" ",
+    "date": "2026-06-15T05:00:00+00:00",
+    "end_date": "2026-06-18T05:00:00+00:00",
+    "time": "12:00 AM – 12:00 AM",
+    "venue": "<h1 style=\"color: rgb(0",
+    "city": "Overland Park",
+    "description": "https://www.jcprd.com/calendar.aspx?EID=16859",
+    "url": "https://www.jcprd.com/Calendar.aspx?EID=16859",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "image_url": null,
     "is_free": true,
     "source": "JCPRD"
@@ -2201,9 +2398,15 @@
     "date": "2026-06-15T05:00:00+00:00",
     "end_date": "2026-06-18T05:00:00+00:00",
     "time": "12:00 AM – 12:00 AM",
+<<<<<<< HEAD
     "venue": "Intro to Light Design (Ages 12 - 17) Lights up! Designing lighting for theatrical productions has been going on since the beginning of theatre. Lighting has changed immensely with new and wonderful technology that lets a lighting designer truly set the mood. This camp will introduce participants to what it means to be a designer",
     "city": "Overland Park",
     "description": "",
+=======
+    "venue": "<h1 style=\"color: rgb(0",
+    "city": "Overland Park",
+    "description": "https://www.jcprd.com/calendar.aspx?EID=16861",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16861",
     "image_url": null,
     "is_free": true,
@@ -2255,7 +2458,11 @@
     "time": "5:30 AM – 7:00 AM",
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
+<<<<<<< HEAD
     "description": "Schedule is subject to change without notice.",
+=======
+    "description": "Schedule is subject to change without notice. https://www.jcprd.com/calendar.aspx?EID=17783",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17783",
     "image_url": null,
     "is_free": true,
@@ -2266,9 +2473,15 @@
     "date": "2026-06-15T10:30:00+00:00",
     "end_date": "2026-06-15T15:30:00+00:00",
     "time": "5:30 AM – 10:30 AM",
+<<<<<<< HEAD
     "venue": "SMSD Aquatic Center - 17251 W. 87th St. Parkway  Lenexa KS 66219",
     "city": "Lenexa",
     "description": "Long Course (50-meters)",
+=======
+    "venue": "<p>SMSD Aquatic Center</p> - 17251 W. 87th St. Parkway  Lenexa KS 66219",
+    "city": "Lenexa",
+    "description": "Long Course (50-meters) https://www.jcprd.com/calendar.aspx?EID=15825",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15825",
     "image_url": null,
     "is_free": true,
@@ -2279,9 +2492,15 @@
     "date": "2026-06-15T14:00:00+00:00",
     "end_date": "2026-06-15T18:00:00+00:00",
     "time": "9:00 AM – 1:00 PM",
+<<<<<<< HEAD
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Ave  Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability.",
+=======
+    "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Ave  Overland Park KS 66213",
+    "city": "Overland Park",
+    "description": "Play and practice with fellow pickleball players. Times and days are subject to change due to court availability. https://www.jcprd.com/calendar.aspx?EID=17130",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17130",
     "image_url": null,
     "is_free": true,
@@ -2292,7 +2511,11 @@
     "date": "2026-06-15T14:30:00+00:00",
     "end_date": "2026-06-15T17:00:00+00:00",
     "time": "9:30 AM – 12:00 PM",
+<<<<<<< HEAD
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Avenue   Overland Park KS 66213",
+=======
+    "venue": "<p><span style=\"color: rgb(34",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "city": "Overland Park",
     "description": "This social, multi-medium art class invites participants to explore creativity at their own pace. Experiment with watercolor, mixed media, and other techniques while receiving guidance and inspiration from the instructor and fellow artists. Each session encourages hands-on practice, skill developme…",
     "url": "https://www.jcprd.com/Calendar.aspx?EID=17434",
@@ -2307,7 +2530,11 @@
     "time": "12:00 PM – 4:00 PM",
     "venue": "Matt Ross Community Center (MRCC) - 8101 Marty  Overland Park KS 66204",
     "city": "Overland Park",
+<<<<<<< HEAD
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16022",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16022",
     "image_url": null,
     "is_free": true,
@@ -2318,9 +2545,15 @@
     "date": "2026-06-15T17:00:00+00:00",
     "end_date": "2026-06-15T21:00:00+00:00",
     "time": "12:00 PM – 4:00 PM",
+<<<<<<< HEAD
     "venue": "Tomahawk Ridge Community Center - 11902 Lowell Avenue   Overland Park KS 66213",
     "city": "Overland Park",
     "description": "Play with friends and make new ones participating in these fun weekly groups!",
+=======
+    "venue": "<p>Tomahawk Ridge Community Center&nbsp;</p> - 11902 Lowell Avenue   Overland Park KS 66213",
+    "city": "Overland Park",
+    "description": "Play with friends and make new ones participating in these fun weekly groups! https://www.jcprd.com/calendar.aspx?EID=16370",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=16370",
     "image_url": null,
     "is_free": true,
@@ -2346,7 +2579,11 @@
     "time": "1:00 PM – 4:00 PM",
     "venue": "Meadowbrook Park  > Meadowbrook Park Clubhouse - 9101 Nall Avenue  Prairie Village KS 66207",
     "city": "Prairie Village",
+<<<<<<< HEAD
     "description": "",
+=======
+    "description": "https://www.jcprd.com/calendar.aspx?EID=15970",
+>>>>>>> d55f88d29e5568e885d14a6231b3bb7bd5eed455
     "url": "https://www.jcprd.com/Calendar.aspx?EID=15970",
     "image_url": null,
     "is_free": true,
