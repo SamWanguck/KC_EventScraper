@@ -144,6 +144,9 @@ def _guess_city(text: str, default: str = "Overland Park") -> str:
 
 JCPRD_CIDS = [14, 27, 34, 35, 64, 67, 68, 70, 71]
 JCPRD_ICAL = "https://www.jcprd.com/common/modules/iCalendar/iCalendar.aspx?catID={cid}&feed=calendar"
+# JCPRD's iCal feed does not include event-specific images, so we fall back to
+# their site banner ("Johnson County KS Parks and Recreation Homepage").
+JCPRD_DEFAULT_IMAGE = "https://www.jcprd.com/ImageRepository/Document?documentID=50099"
 
 
 def scrape_jcprd(now: datetime) -> list[Event]:
@@ -188,7 +191,7 @@ def scrape_jcprd(now: datetime) -> list[Event]:
                     city=_guess_city(location),
                     description=_truncate(str(comp.get("DESCRIPTION") or "")),
                     url=event_url,
-                    image_url=None,
+                    image_url=JCPRD_DEFAULT_IMAGE,
                     is_free=True,
                     source="JCPRD",
                 ))
