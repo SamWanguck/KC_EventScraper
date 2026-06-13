@@ -28,6 +28,7 @@ import feedparser  # noqa: F401  (retained for future RSS sources)
 import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
+from dateutil.rrule import rrulestr
 from icalendar import Calendar
 from rapidfuzz import fuzz
 
@@ -164,39 +165,61 @@ def scrape_jcprd(now: datetime) -> list[Event]:
             log.warning("JCPRD CID %s failed: %s", cid, e)
             continue
 
+        window_end = now + timedelta(days=WINDOW_DAYS)
         for comp in cal.walk("VEVENT"):
             uid = str(comp.get("UID") or "")
-            if uid and uid in seen_uids:
-                continue
             try:
                 start = comp.decoded("DTSTART")
                 end = comp.decoded("DTEND", default=None)
-                start_dt = start if isinstance(start, datetime) else datetime.combine(start, datetime.min.time(), tzinfo=CT)
-                end_dt = end if isinstance(end, datetime) else (datetime.combine(end, datetime.min.time(), tzinfo=CT) if end else None)
-                if not _in_window(start_dt, now):
+                base_start = start if isinstance(start, datetime) else datetime.combine(start, datetime.min.time(), tzinfo=CT)
+                base_end = end if isinstance(end, datetime) else (datetime.combine(end, datetime.min.time(), tzinfo=CT) if end else None)
+                duration = (base_end - base_start) if base_end else None
+
+                # Expand recurring events (CivicPlus emits RRULE for swim
+                # practices, board meetings, recurring classes etc.); otherwise
+                # the single base_start is the only occurrence.
+                rrule = comp.get("RRULE")
+                if rrule:
+                    try:
+                        rrule_text = rrule.to_ical().decode("utf-8")
+                        rule = rrulestr(f"RRULE:{rrule_text}", dtstart=base_start)
+                        occurrences = list(rule.between(now, window_end, inc=True))
+                    except Exception:
+                        occurrences = [base_start] if now <= base_start <= window_end else []
+                else:
+                    occurrences = [base_start] if now <= base_start <= window_end else []
+
+                if not occurrences:
                     continue
 
                 location = _strip_html(str(comp.get("LOCATION") or ""))
                 title = _strip_html(str(comp.get("SUMMARY") or "Untitled"))
-                # JCPRD iCal URL field is a generic feed URL; build the real
-                # event detail page from the numeric UID instead.
                 event_url = (f"https://www.jcprd.com/Calendar.aspx?EID={uid}"
                              if uid.isdigit() else "https://www.jcprd.com/calendar.aspx")
-                events.append(Event(
-                    title=title,
-                    date=_to_iso(start_dt) or "",
-                    end_date=_to_iso(end_dt),
-                    time=_format_time(start_dt, end_dt),
-                    venue=location.split(",")[0].strip(),
-                    city=_guess_city(location),
-                    description=_truncate(str(comp.get("DESCRIPTION") or "")),
-                    url=event_url,
-                    image_url=JCPRD_DEFAULT_IMAGE,
-                    is_free=True,
-                    source="JCPRD",
-                ))
-                if uid:
-                    seen_uids.add(uid)
+                description = _truncate(str(comp.get("DESCRIPTION") or ""))
+
+                for occ_start in occurrences:
+                    occ_end = occ_start + duration if duration else None
+                    # Per-occurrence dedup key so we don't emit the same
+                    # instance from overlapping category calendars.
+                    occ_key = f"{uid}@{occ_start.isoformat()}"
+                    if occ_key in seen_uids:
+                        continue
+                    seen_uids.add(occ_key)
+
+                    events.append(Event(
+                        title=title,
+                        date=_to_iso(occ_start) or "",
+                        end_date=_to_iso(occ_end),
+                        time=_format_time(occ_start, occ_end),
+                        venue=location.split(",")[0].strip(),
+                        city=_guess_city(location),
+                        description=description,
+                        url=event_url,
+                        image_url=JCPRD_DEFAULT_IMAGE,
+                        is_free=True,
+                        source="JCPRD",
+                    ))
             except Exception as e:
                 log.warning("JCPRD event skipped (CID %s): %s", cid, e)
     log.info("JCPRD: %d events", len(events))
@@ -397,13 +420,16 @@ def scrape_visit_op(now: datetime) -> list[Event]:
                     end_dt = datetime.fromtimestamp(int(end_epoch_ev), tz=CT) if end_epoch_ev else None
             except (ValueError, TypeError):
                 continue
-            # The "in window" check here is gentler than _in_window — long-
-            # running exhibits that started before today should still appear
-            # if they're ongoing.
             if start_dt > now + timedelta(days=WINDOW_DAYS):
                 continue
             if end_dt and end_dt < now:
                 continue
+            # Long-running exhibits that started months ago: keep them
+            # available but bump their displayed date to today so they
+            # sort and read as "current," not as old news.
+            if start_dt < now:
+                start_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
+                all_day = True
 
             # Algolia returns bare slugs like "/julie-buffalohead-stories…/";
             # real event pages live under /events/<slug>/.
@@ -496,6 +522,15 @@ def main() -> int:
 
     events = gather(now)
     log.info("Collected %d raw events", len(events))
+
+    # Final safety net: drop anything whose start date is before today.
+    # Recurring/ongoing items are handled per-source by either expanding
+    # the RRULE (JCPRD) or clamping to today (Visit OP).
+    today_iso = now.replace(hour=0, minute=0, second=0, microsecond=0).isoformat()
+    before = len(events)
+    events = [e for e in events if e.date >= today_iso]
+    log.info("Filtered %d past events", before - len(events))
+
     events = deduplicate(events)
     log.info("After dedup: %d events", len(events))
 
